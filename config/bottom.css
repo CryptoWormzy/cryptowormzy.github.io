@@ -1,0 +1,33 @@
+body {
+	background-color: #1f8897;
+}
+
+.bottom {
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.links_text {
+	font-family: 'Poppins', sans-serif;
+	color: #ffffff;
+	text-align: center;
+	font-size: 70px;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	text-shadow: 5px 5px #000000;
+}
+
+.logo_img {
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 15px;
+
+	box-shadow: 0px 5px 11px 2px rgba(0, 0, 0, 0.7);
+	border: 4px solid var(--secondary);
+	background-color: var(--accent);
+	border-radius: 100%;
+	max-width: 200px;
+	height: auto;
+	transition: width 0.5s;
+}
